@@ -23,3 +23,9 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 - Do the odd numbered `p` elements share a class?
 - Do the even numbered `div` elements have unique IDs?
 - Does the Number 3 element have multiple classes?
+
+#### Coding Notes
+ - Next time, I should make more frequent additions to the git, as it will allow me to follow my steps and write more often about sticking points.
+    It's also easier to chronicle this piecemeal as opposed to dumping out lessons learned after completion
+ - this was an assignment where I contemplated coming up with an outline before I just decided to follow the directions step by step.  At first I wanted to make the odd elements into an ID, but it makes better sense to consider them classes, since CSS rules grant precedence to ID's over classes. 
+  * Use Font size instead of size within the CSS to 
